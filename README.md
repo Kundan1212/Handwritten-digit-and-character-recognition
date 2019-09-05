@@ -1,0 +1,2 @@
+# Handwritten-digit-and-character-recognition
+In this project,implementation of different Machine Learning and Deep Learning Techniques on Handwritten digits ,english characters as well as devanagari character data sets has been done for classification purpose. Feature extraction ,Data Processing and Data visualization has been done on the datasets. The final results are based on the model which gives the least classification error or highest accuracy. The application of this recognizer includes in form data entry, check processing, postal mail sorting etc.
